@@ -5,7 +5,7 @@ git clone
 ```
 2. Navigate into application folder
 ```
-cd csc648-fall2019-Team01/application
+cd E-Commerce-Website/application
 ```
 3. Initialize the server (may need root user permissions)
 ```
